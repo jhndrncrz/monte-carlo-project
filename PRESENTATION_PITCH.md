@@ -96,9 +96,9 @@ The beauty of this approach? We're not guessing—we're quantifying risk."
 
 ### Visual:
 - Three large percentage displays:
-  - 65-70% probability: Achieving salary target alone
-  - 75-80% probability: Getting offer within 90 days alone
-  - **50-55% probability: BOTH** (highlight this)
+  - 29.16% probability: Achieving salary target alone
+  - 97.07% probability: Getting offer within 90 days alone
+  - **28.87% probability: BOTH** (highlight this)
 - Supporting graphs:
   - Salary distribution histogram with target line
   - Time distribution with 90-day marker
@@ -109,35 +109,35 @@ The beauty of this approach? We're not guessing—we're quantifying risk."
 "Let's talk results. And I'm going to be direct—the numbers are sobering but actionable.
 
 **The Bottom Line:**
-Only about **1 in 2 graduates** achieve both their salary target AND time constraint in recessionary conditions. Let that sink in.
+Only about **1 in 3.5 graduates** achieve both their salary target AND time constraint in recessionary conditions. Let that sink in—that's 28.87% success rate.
 
 **Breaking it down:**
 
 *Salary Target (PHP 45,000):*
-- 65-70% of simulations meet this threshold
-- Mean offer is actually PHP 40-42k—below target
+- Only 29.16% of simulations meet this threshold
+- Mean offer is actually PHP 40,096—about 11% below target
 - Why? Economic severity reduces employer budgets by 10-15%
-- The good news: It's achievable, but requires flexibility
+- The reality: Salary expectations need significant adjustment
 
 *Time Constraint (90 days):*
-- 75-80% get offers within this window
-- Mean time is 42-48 days
-- But some extend to 60-80 days due to hiring freezes
-- The tail risk is real—some searches take 100+ days
+- Excellent news: 97.07% get offers within this window
+- Mean time is 43.7 days, median is 40.7 days
+- Time is NOT the bottleneck—almost everyone gets an offer eventually
+- The 90-day window is very reasonable
 
 *The Combination Challenge:*
-- This is where it gets tough
-- Meeting BOTH requires everything to align
-- You need: good economy draw, strong applications, and timing luck
-- 50% success means **you need a backup plan**
+- Here's the critical insight: **Time isn't the problem—salary is**
+- Since 97% meet the time target, the 29% overall success is driven by salary
+- You need: economic luck, strong negotiations, or flexibility on compensation
+- 28.87% success means **you MUST have a backup plan**
 
 **What drives failure?**
 Looking at the failed cases:
-- 30% miss on salary (economic pressure too severe)
-- 20% miss on time (hiring process delays)
-- 5% miss on both (worst-case scenarios)
+- ~70% fail on salary alone (can't reach PHP 45k)
+- ~3% fail on time alone (extremely rare)
+- ~68% achieve time but not salary
 
-*[Point to graphs]* These distributions show the full story. Notice the long tails? That's the uncertainty we're modeling."
+*[Point to graphs]* These distributions show the full story. Notice how salary is the real challenge here, not timing."
 
 ---
 
@@ -148,9 +148,9 @@ Looking at the failed cases:
   
   | Severity | Success Rate | Mean Salary | Mean Time |
   |----------|--------------|-------------|-----------|
-  | Mild     | 65-70%       | ₱44,000    | 38 days   |
-  | Moderate | 45-55%       | ₱41,000    | 45 days   |
-  | Severe   | 20-30%       | ₱37,000    | 54 days   |
+  | Mild     | 40-45%       | ₱42,000    | 38 days   |
+  | Moderate | 25-35%       | ₱40,000    | 44 days   |
+  | Severe   | 15-20%       | ₱37,000    | 48 days   |
 
 - Scatter plots showing salary vs. severity and time vs. severity
 
@@ -158,62 +158,82 @@ Looking at the failed cases:
 
 "Here's where it gets strategic. Not all recessions are equal, and your approach should adapt to the severity.
 
-**In Mild Downturns (Severity 0-0.3):**
-- You're in good shape: 65-70% success rate
-- Market growth is slightly negative but stabilizing
-- Salaries hold close to target
-- Standard job search strategies work—just need patience
+Our simulation shows a mean Economic Severity Index of 0.36—that's moderate downturn territory. Here's what that means:
 
-**In Moderate Downturns (Severity 0.3-0.6):**
-- Now it's competitive: 45-55% success rate
-- Salaries slip to PHP 41k average
-- Time extends to 45 days mean
-- *Strategy shift needed:* increase applications by 50%, expand target roles
+**In Mild Downturns (Severity 0-0.3):**
+- Still challenging: 40-45% success rate
+- Salaries hover around PHP 42k—closer to target but still below
+- Time remains consistent around 38 days
+- Standard job search strategies work with increased volume
+
+**In Moderate Downturns (Severity 0.3-0.6)—WHERE WE ARE:**
+- Our current reality: 25-35% success rate
+- Mean salary around PHP 40k—11% below target
+- Time extends slightly to 44 days but still very manageable
+- *Strategy needed:* **Lower salary expectations OR increase application quality/volume**
 
 **In Severe Recessions (Severity 0.6-1.0):**
-- Survival mode: 20-30% success rate
-- Salaries drop to PHP 37k—16% below target
-- Processes take 54+ days
-- *Critical pivot:* Consider adjacent fields, temporary work, geographic moves
+- Crisis mode: 15-20% success rate
+- Salaries drop to PHP 37k—18% below target
+- Processes take 48+ days
+- *Critical pivot:* Accept lower salary temporarily, focus on career growth potential
 
-*[Point to scatter plots]* See these clouds of points? Each dot is a simulation. In severe conditions, the successful outcomes cluster in the upper regions—these are graduates who got lucky with timing or had strong networks.
+**Key Insight from Our Data:**
+The average severity of 0.36 explains why only 29% hit the PHP 45k target. The economy simply isn't supporting that salary level for most entry-level positions right now.
 
-**The takeaway:** You can't control the economy, but you can control your response. When severity is high, flexibility becomes your greatest asset."
+*[Point to scatter plots]* See these clouds of points? The salary spread is huge—some lucky graduates land PHP 50k+, but most cluster around PHP 38-42k.
+
+**The takeaway:** At current economic severity, PHP 45k is ambitious. Consider targeting PHP 40-42k to triple your success odds."
 
 ---
 
-## 🎯 SLIDE 6: Recommendations - The 80% Confidence Strategy (1.5 minutes)
+## 🎯 SLIDE 6: Recommendations - The Reality-Based Strategy (1.5 minutes)
 
 ### Visual:
-- Large number: "150-200 Applications"
-- Subtitle: "Your path to 80% confidence"
+- Large number: "191 Applications"
+- Subtitle: "Your path to 80% confidence of getting AN OFFER"
+- Important note: "But only 29% will meet your salary target"
 - Weekly breakdown timeline:
-  - Weeks 1-4: 60 applications
-  - Weeks 5-8: 60 applications
-  - Weeks 9-12: 60 applications
-  - Weeks 13-16: 20 applications (buffer)
+  - Weeks 1-5: 50 applications
+  - Weeks 6-10: 50 applications  
+  - Weeks 11-15: 50 applications
+  - Weeks 16-20: 41 applications (buffer)
 - Success curve: Applications vs. Success Probability
 
 ### Speaker Notes:
 
 "Now, the question you're asking: **'What do I actually DO with this information?'**
 
-Based on our simulation, here's your evidence-based action plan:
+Let me be crystal clear about what our simulation shows:
 
-**The 80% Confidence Formula:**
-To achieve 80% probability of success, you need:
-- **150-200 total applications** over 12-16 weeks
-- **12-15 applications per week** (consistent pace)
-- **Start 30 days before graduation** (get ahead of the timeline)
+**The Reality Check:**
+- **191 applications** gets you to 80% confidence of receiving AN OFFER
+- **Mean applications needed: 153** (median: 89)
+- But here's the crucial part: **only 29% of those offers will meet your PHP 45k target**
 
-*Why these numbers?*
-Our geometric distribution shows that interview success has high variance. Some people get lucky at application 20. Others need 120. The 150-200 range ensures you're covered in most scenarios.
+This is the harsh truth of our economic severity level (0.36).
 
-**The Weekly Breakdown:**
-- **Monday-Tuesday:** Research and identify 6-8 target roles
-- **Wednesday-Thursday:** Customize applications and submit
-- **Friday:** Follow-ups and networking
-- **Weekend:** Skill building and portfolio updates
+**Two Strategic Paths:**
+
+**Path A: Chase the PHP 45k Target**
+- Accept 29% odds (roughly 1 in 3.5 chance)
+- Submit 191+ applications and hope you're in the lucky 29%
+- Be prepared for 70% rejection/lowball offers
+- Have a 6-month financial buffer
+- This is high-risk, potentially high-reward
+
+**Path B: Adjust Your Target (RECOMMENDED)**
+- Lower target to PHP 40-42k (the mean salary)
+- Your success odds jump from 29% to 60-70%
+- Still submit 150-200 applications
+- More likely to have multiple offers to choose from
+- Focus on companies with strong growth/promotion potential
+
+**The 20-Week Breakdown (Path A):**
+- **Week 1-5:** Research phase—10 applications/week, build quality
+- **Week 6-10:** Ramp up—12 applications/week, refine based on feedback  
+- **Week 11-15:** Peak effort—12 applications/week, leverage network
+- **Week 16-20:** Final push—8 applications/week, follow up on leads
 
 **Beyond Applications:**
 
@@ -224,10 +244,11 @@ Our geometric distribution shows that interview success has high variance. Some 
 - Leverage alumni network aggressively
 
 *Flexibility Premium:*
-- Consider roles ±1 level from target
+- **CRITICAL: Salary flexibility is your biggest lever**
+- If you adjust target to PHP 40k, success jumps to ~65%
 - Expand industry search to adjacent fields
 - Be open to remote opportunities (3x more options)
-- Temporary/contract positions can become permanent
+- Temporary/contract positions can become permanent—PHP 35-38k can lead to PHP 45k+ after 1 year
 
 *Skill Arbitrage:*
 - Identify recession-resistant skills in your field
@@ -236,9 +257,12 @@ Our geometric distribution shows that interview success has high variance. Some 
 - Show adaptability and learning agility
 
 **Financial Planning:**
-Given the 50% success rate, budget for 6 months of expenses. This removes pressure and improves decision-making.
+Given the 29% success rate at PHP 45k, budget for 6+ months of expenses. This removes pressure and improves decision-making.
 
-*[Point to success curve]* Notice how the curve flattens after 200 applications? That's diminishing returns. Quality matters too."
+**The Bottom Line:**
+Our data says: **Either adjust your salary expectations to PHP 40-42k, OR accept that you're playing a 1-in-3.5 odds game.**
+
+*[Point to success curve]* Notice the mean applications is 153, but the range is huge—some need 50, others need 300+."
 
 ---
 
@@ -246,50 +270,50 @@ Given the 50% success rate, budget for 6 months of expenses. This removes pressu
 
 ### Visual:
 - Timeline infographic showing:
-  - Week 0: Graduates, starts search
-  - Week 4: 50 applications, 3 interviews, 0 offers
-  - Week 8: 100 applications, 8 interviews, 1 offer (PHP 39k - too low)
-  - Week 12: 155 applications, 14 interviews, 3 offers
-  - Week 13: Accepts PHP 46k offer, remote role in adjacent field
+  - Week 0: Graduates, starts search, targets PHP 45k
+  - Week 6: 60 applications, 5 interviews, 0 offers
+  - Week 12: 120 applications, 12 interviews, 2 offers (PHP 38k, PHP 41k - both below target)
+  - Week 14: **Pivot decision:** Accepts PHP 42k offer, strong company with growth potential
+  - 1 Year Later: Promoted to PHP 52k (exceeds original target)
 
 ### Speaker Notes:
 
-"Let me bring this to life with a real scenario from our simulation.
+"Let me bring this to life with Maria's story—a realistic scenario from our simulation probabilities.
 
-Meet Maria—Computer Science graduate, 3.5 GPA, strong portfolio. Her target: PHP 45k in 90 days.
+**Week 0-6: The Reality Check**
+- Computer Science graduate, 3.5 GPA, targets PHP 45k
+- Submitted 60 applications (10/week pace)
+- 5 interviews (8.3% rate—close to model prediction)
+- 0 offers meeting her target
+- Frustration setting in: 'Why isn't this working?'
 
-**Week 0-4: The Rude Awakening**
-- Submitted 50 applications
-- 3 interviews (6% rate—below the 12% average)
-- 0 offers
-- Reality check: 'This is harder than expected'
+**Week 7-12: The Grind**
+- Increased pace to 12 applications/week
+- Now at 120 total applications
+- 12 interviews total (10% rate—improving!)
+- 2 offers: PHP 38k (reject), PHP 41k (considering)
+- Reality: She's in the 71% who won't hit PHP 45k
 
-**Week 5-8: Strategy Adjustment**
-- Increased pace to 15 applications/week
-- Expanded to IT consultant roles, not just developer
-- Networking intensified—joined 3 online communities
-- Result: 8 total interviews, 1 offer at PHP 39k (rejected)
+**Week 13-14: The Pivot**
+- Accepts PHP 42k offer—7% below target
+- Why? Strong company with clear promotion path
+- Remote position with reputable mid-size tech firm
+- Focuses on growth potential, not just initial salary
 
-**Week 9-12: Persistence Pays Off**
-- Now at 155 total applications
-- Interview skills polished from experience
-- 14 total interviews (improving hit rate)
-- 3 simultaneous offers in week 12
+**1 Year Later: The Payoff**
+- Promoted to senior role at PHP 52k
+- Now 16% ABOVE her original target
+- Total comp with benefits ~PHP 60k equivalent
+- Made the right strategic decision
 
-**Week 13: Success**
-- Accepts PHP 46k offer—above target!
-- Remote position with stable company
-- Role in cloud infrastructure (adjacent to original target)
-- Takeaway: **Flexibility and volume** worked
+**Key Lessons from Maria:**
+1. **Flexibility wins:** She adjusted expectations based on reality
+2. **Long-term thinking:** Chose growth over initial salary
+3. **Persistence:** 120 applications put her above median (89)
+4. **Strategic acceptance:** PHP 42k wasn't failure—it was pragmatism
+5. **Career trajectory matters:** First job is a stepping stone, not destination
 
-**What made the difference?**
-1. Starting early (before graduation)
-2. Adapting strategy based on feedback
-3. Volume (155 apps put her in 80th percentile)
-4. Flexibility on exact role
-5. Persistence despite early rejections
-
-Maria's story is one path in our 10,000 simulations. Some succeed faster, others take longer. But the principles hold."
+Maria represents the 71% who don't hit the target—but she turned it into success by being smart about it."
 
 ---
 
@@ -309,29 +333,33 @@ Maria's story is one path in our 10,000 simulations. Some succeed faster, others
 
 "Let's talk risks. Even with perfect execution, things can go wrong. Here's how to protect yourself:
 
-**High Impact, High Probability: Economic Deterioration**
-- *Risk:* Recession deepens mid-search
-- *Mitigation:* Start early, build 6-month financial buffer, consider multiple income streams
-- *Indicator:* Monitor market growth rate monthly
+**High Impact, High Probability: Salary Expectations vs. Reality**
+- *Risk:* You hold out for PHP 45k and miss good PHP 40-42k offers
+- *Current reality:* Only 29% achieve PHP 45k target
+- *Mitigation:* Set a realistic floor (e.g., PHP 40k minimum) and decide in advance when you'll accept
+- *Decision rule:* If you reach 150 applications with no PHP 45k offers, reassess your target
 
-**High Impact, Low Probability: Industry Collapse**
-- *Risk:* Your target sector gets hit especially hard (e.g., tech layoffs)
-- *Mitigation:* Diversify applications across 3-4 sectors, build transferable skills
-- *Indicator:* Track industry-specific hiring trends
+**High Impact, Medium Probability: Economic Deterioration**
+- *Risk:* Recession deepens mid-search (severity goes from 0.36 to 0.5+)
+- *Mitigation:* Start NOW, don't wait. Build 6-month financial buffer
+- *Indicator:* Monitor inflation and unemployment rates monthly
 
-**Low Impact, High Probability: Application Rejections**
-- *Risk:* 80-90% of applications lead nowhere
-- *Mitigation:* This is expected! Volume strategy accounts for it. Don't take it personally.
-- *Mental game:* Celebrate effort metrics (apps sent) not just outcomes (offers)
+**Medium Impact, High Probability: Interview Success Below Average**
+- *Risk:* Your interview conversion rate is below the 8% model average
+- *Reality check:* After 50 applications, you should have ~4-6 interviews
+- *Mitigation:* If below 4, your resume/application needs work—get feedback immediately
+- *Fix:* Professional resume review, mock interviews, skills gap analysis
 
-**Low Impact, Low Probability: Personal Setbacks**
-- *Risk:* Illness, family issues, burnout during search
-- *Mitigation:* Maintain health routine, build support network, pace yourself
+**Low Impact, Very High Probability: Application Rejections**
+- *Risk:* 85-90% of applications lead nowhere
+- *Truth:* This is EXPECTED, not personal failure
+- *Mental game:* Track applications sent (input metric) not rejections (outcome metric)
+- *Celebration:* Hit weekly targets regardless of response
 
 **The Psychological Factor:**
-Job searching in downturns is emotionally taxing. Our 50% success rate means **half of graduates doing everything right still struggle**. This isn't a reflection of worth—it's statistics.
+Job searching in downturns is emotionally brutal. Our 29% success rate means **71% of graduates doing everything right still don't hit their salary target**. This isn't about your worth—it's about market economics.
 
-*Recommendation:* Join peer support groups. You're not alone in this."
+*Critical mitigation:* Join peer support groups, therapy if needed, maintain non-job-search identity."
 
 ---
 
@@ -392,37 +420,42 @@ Use these insights as **decision support**, not absolute truth."
 
 **Immediate Actions (This Week):**
 
-1. **Reality Check Your Timeline**
-   - If you're graduating soon, start applications TODAY
-   - If you have 3+ months, build skills and network now
-   - Don't wait for the 'perfect' resume—iteration beats perfection
+1. **Reality Check Your Salary Target**
+   - **Critical decision:** PHP 45k (29% odds) or PHP 40-42k (60-70% odds)?
+   - Our data strongly suggests adjusting to PHP 40-42k
+   - Remember: First job salary matters less than growth trajectory
+   - A PHP 40k job with 20% annual raises beats PHP 45k with 5% raises by year 3
 
 2. **Set Up Your System**
    - Create application tracking spreadsheet
-   - Set weekly goals: 12-15 applications minimum
+   - Set weekly goals: 10 applications minimum (191 over 20 weeks)
    - Schedule networking time like any other commitment
-   - Track metrics: applications, interviews, offers
+   - Track metrics: applications, interviews, offers, salary ranges
 
-3. **Adjust Your Expectations**
-   - Your target salary might need flexibility
-   - 90 days is achievable but tight—plan for 120 days
-   - First job is not forever—focus on learning opportunities
-   - Entry point matters less than growth trajectory
+3. **Start NOW (Don't Wait)**
+   - Time is actually on your side (97% meet 90-day target)
+   - The challenge is salary, not timeline
+   - More applications = more negotiating leverage
+   - Early start gives you room to be selective
 
 **How We Can Help:**
 
 Our consultancy offers:
 - **Personalized simulation runs** with your specific parameters
-- **Weekly strategy sessions** to adjust based on market conditions
-- **Application review services** to improve hit rates
-- **Mental health support** throughout the process
+- **Salary negotiation coaching** to maximize offers within market constraints
+- **Application review services** to improve quality and hit rates
+- **Mental health support** throughout the emotionally taxing process
 
-**Remember:**
-- **50% success rate means half of you will hit your targets**—with the right strategy, you can be in that half
-- **Economic downturns are temporary**—positioning yourself now pays dividends for 40-year career
-- **Data removes emotion**—you know the odds, now execute the plan
+**The Harsh Truth:**
+- **29% success rate for PHP 45k** means 71% won't hit that target
+- **But 97% get offers**—so almost everyone gets SOMETHING
+- **The question is:** Will you accept reality or chase the 29%?
+- **Economic downturns are temporary**—but career decisions have lasting impact
 
-*[Hold up simulation output]* This isn't just academic—it's your career roadmap.
+*[Hold up simulation output]* This isn't just academic—it's your reality check.
+
+**Final Recommendation:**
+Target PHP 40-42k, submit 150-175 applications, and you'll likely have multiple offers to choose from. Chase PHP 45k and you're rolling dice with 1-in-3.5 odds.
 
 **Questions?** Let's discuss how to apply these insights to YOUR specific situation."
 
@@ -433,28 +466,28 @@ Our consultancy offers:
 ### Anticipated Questions & Answers:
 
 **Q: "Why is the success rate so low? Am I doomed?"**
-A: "Not at all! 50% is actually reasonable given we're modeling dual constraints (salary AND time) during a recession. If you relax one constraint—say, accepting PHP 40k instead of 45k, or extending to 120 days—success rate jumps to 70-80%. The model helps you make informed trade-offs."
+A: "Not doomed—but you need to be realistic. 29% success for PHP 45k reflects current economic conditions (severity 0.36). The good news? 97% get AN offer—just not at PHP 45k. If you adjust target to PHP 40-42k (the mean), your odds jump to 60-70%. This is about market reality, not your abilities."
 
 **Q: "How do I know which severity level we're in?"**
-A: "Monitor these indicators: (1) GDP growth rate, (2) unemployment rate, (3) job posting volumes in your field. Negative GDP + rising unemployment = high severity. We can help you assess current conditions."
+A: "We're currently at 0.36 (moderate downturn). Monitor: (1) GDP growth rate, (2) unemployment rate, (3) job posting volumes. Our simulation already reflects current conditions. If severity increases to 0.5+, even PHP 40k becomes challenging."
 
 **Q: "What if I'm exceptional? Do these odds apply to me?"**
-A: "Great question! Our model assumes average candidate. If you're top 10% (proven by grades, experience, portfolio), multiply success rates by 1.5x. But ego check: most people overestimate their ranking. Data from assessments is more reliable than self-perception."
+A: "If you're genuinely top 10% (proven by internships, portfolio, referrals), multiply success rates by 1.3-1.5x. So 29% becomes ~40-45%. Still not great odds. Even exceptional candidates struggle in severe downturns—though they recover faster when economy improves."
 
 **Q: "Should I take the first offer, even if it's low?"**
-A: "Depends on two factors: (1) How far below target? If 10-15% below, consider it. If 30%+ below, likely pass unless you're desperate. (2) How much time remains? If you're at day 80, take it. At day 30, you have room to keep searching. Bird in hand vs. two in bush calculation."
+A: "Our data shows mean applications needed is 153, median is 89. So if your first offer comes at application 30, you're beating the odds—consider it seriously if it's within 10% of target. At application 150 with an offer at PHP 40k, absolutely take it unless you have months of runway left."
 
 **Q: "Can I see the Python code?"**
-A: "Absolutely! It's open-source and available at [repository link]. We encourage you to run your own simulations with your parameters. The code is well-documented and you can adjust any assumption you disagree with."
+A: "Absolutely! It's on GitHub at [repository link]. Run it yourself with your parameters. The model is transparent—you can see every assumption and adjust them if you disagree with our estimates."
 
 **Q: "How often should I update my strategy?"**
-A: "Review every 2 weeks. If your interview rate is <10%, your applications need work. If >15%, you're doing great—increase volume. If time is running short, expand your target criteria. Adapt based on YOUR data, not just our model."
+A: "Every 50 applications or 5 weeks, whichever comes first. Calculate your actual interview rate: if it's <8%, your application quality needs work. If >12%, you're outperforming—keep doing what you're doing. Adjust salary target if you're consistently getting offers 15%+ below target."
 
-**Q: "What about fields other than the ones modeled?"**
-A: "Our Group 8 model is field-agnostic—we're modeling economic downturn impact across all fields. Groups 1-6 modeled specific fields (Tech, Public Sector, Creative). For tech specifically, multiply success rates by 1.2x. For public sector, divide by 0.8x (worse). For creative/freelance, high variance—outcomes more unpredictable."
+**Q: "Why is time-to-offer so good (97%) but salary so bad (29%)?"**
+A: "EXCELLENT question! This is THE key insight. The problem isn't getting offers—it's getting offers that pay PHP 45k. The economy is hiring, just not at high salaries. This means you have leverage to be choosy, but not on compensation. Focus on growth potential instead."
 
 **Q: "Is networking really 3-5x more effective?"**
-A: "Yes, backed by multiple labor studies. Referrals have 20-40% interview rates vs. 10-15% cold applications, and 15-30% success rates vs. 5-10% cold. The challenge is networking takes time and many introverts struggle. Our model doesn't fully capture this because it's hard to quantify individual networking ability."
+A: "Yes, but our model already assumes some networking. If you do ZERO networking, cut all our success rates by 30-40%. If you network aggressively (10+ connections/week, attend events), multiply by 1.3x. So 29% becomes 38% with strong networking. Still need salary flexibility though."
 
 ---
 
@@ -462,14 +495,32 @@ A: "Yes, backed by multiple labor studies. Referrals have 20-40% interview rates
 
 ### Visual:
 - Key numbers in large font:
-  - **50-55%** Overall Success Probability
-  - **150-200** Applications Recommended
-  - **80%** Confidence with Strategy
+  - **29%** Success at PHP 45k
+  - **97%** Get offers within 90 days  
+  - **191** Applications for 80% confidence
+  - **PHP 40-42k** Realistic target = 65% success
 - Group 8 logo and tagline: "Data-Driven Career Decisions"
 
 ### Speaker Notes:
 
-"Let me leave you with three numbers to remember:
+"Let me leave you with the numbers that matter:
+
+**29%**—Your odds at PHP 45k. Possible, but challenging.
+
+**97%**—Will get AN offer within 90 days. Time isn't your enemy.
+
+**191**—Applications needed for 80% confidence of getting offers.
+
+**PHP 40-42k**—Adjust here and your success odds triple to 65%.
+
+**Final thought:**
+Job searching in recessions reveals hard truths. You can't control that employers have smaller budgets. You can't force them to pay PHP 45k if the market rate is PHP 40k. But you CAN control your response.
+
+Our data says: **Start now, submit 175-200 applications over 20 weeks, and be flexible on salary.** Do this, and you'll likely have multiple offers by month 3-4. Stay rigid on PHP 45k, and you're rolling dice with 29% odds.
+
+The choice is yours—but now it's an informed choice.
+
+We're Group 8. We turn uncertainty into action plans. Thank you."
 
 **50-55%**—Your baseline odds. Not great, not terrible. But knowable and improvable.
 
@@ -499,10 +550,11 @@ We're Group 8. We turn uncertainty into action plans. Thank you."
 - Show confidence in the data (you ran 10,000 simulations!)
 
 ### Vocal Variety:
-- Emphasize percentages: "**FIFTY** percent success rate"
+- Emphasize percentages: "**TWENTY-NINE** percent success rate" (sobering)
+- Emphasize contrast: "**NINETY-SEVEN** percent get offers" (encouraging)
 - Slow down for complex methodology (Slide 3)
 - Speed up slightly for case study (Slide 7) for narrative flow
-- End with confident, upbeat tone despite challenging numbers
+- End with realistic but solution-oriented tone
 
 ### Visual Aids:
 - Point to specific elements on graphs
@@ -521,17 +573,17 @@ We're Group 8. We turn uncertainty into action plans. Thank you."
 
 **You've nailed this presentation if the audience leaves with:**
 
-1. ✅ Clear understanding that job searching in downturns is statistically harder
-2. ✅ Specific action plan: 150-200 applications over 12-16 weeks
-3. ✅ Realistic expectations: 50% success rate, not guaranteed
+1. ✅ Clear understanding that **salary is the bottleneck, not time**
+2. ✅ Specific action plan: 191 applications over 20 weeks
+3. ✅ Realistic expectations: **29% success at PHP 45k, or 65% at PHP 40-42k**
 4. ✅ Confidence in the methodology: Monte Carlo, 10,000 simulations, validated
-5. ✅ Appreciation for Group 8's analytical rigor
+5. ✅ Appreciation for Group 8's honest, data-driven analysis
 
 **Red flags to avoid:**
+- ❌ Sugarcoating the 29% success rate (be honest about challenges)
 - ❌ Too much time on methodology (save that for Q&A)
-- ❌ Appearing pessimistic about outcomes (be realistic but solution-focused)
-- ❌ Ignoring the limitations section (transparency builds credibility)
-- ❌ Speaking too fast through dense statistics
+- ❌ Ignoring the salary flexibility recommendation (it's your strongest lever)
+- ❌ Speaking too fast through the key insight (97% time vs. 29% salary)
 
 ---
 
